@@ -11,3 +11,6 @@ Ich habe bisher wenig Erfahrung mit Softwareentwicklung. Ich möchte lernen, wie
 Das erwarte ich von der Veranstaltung
 
 Ich möchte die Grundlagen der Softwareentwicklung lernen und sicher mit Git und GitHub umgehen können.
+## Aufgabe 3
+
+Diese Änderung habe ich direkt im GitHub-Browser gemacht.
